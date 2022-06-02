@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedinche
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning html, css and javascript
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me: andreycheshko@gmail.com
 
